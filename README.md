@@ -60,8 +60,6 @@ You can find demo videos demonstrating HARIS in action [here](https://www.canva.
 
 You can find the detailed documentation [here](https://drive.google.com/file/d/1Pywy5OnwpzJYuCayuzkzm201_yxQiJdH/view?usp=sharing).
 
-For more details, please refer to the documentation and code in the repository.
-
 
 ## Contributing 👨‍🎓 👩‍🎓
 - <a href="https://github.com/IsraaSaede" target="_blank">IsraaSaede</a>
