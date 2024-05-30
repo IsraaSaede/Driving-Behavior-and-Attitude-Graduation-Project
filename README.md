@@ -55,7 +55,7 @@ Identifies potentially dangerous vehicles.
 you can find Demo Viedos in this link:
 
 
-## 👨‍🎓 👩‍🎓 Contributing
+## Contributing 👨‍🎓 👩‍🎓
 - <a href="https://github.com/IsraaSaede" target="_blank">IsraaSaede</a>
 
 - <a href="https://github.com/marah-ghanem" target="_blank">MarahAbuGhanem</a>
