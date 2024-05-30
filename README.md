@@ -48,7 +48,7 @@ HARIS provides timely alerts to drivers, aiming to reduce accidents and ensure s
 you can find Demo Viedos in this link:
 
 
-## Contributing
+## 👨‍🎓 👩‍🎓 Contributing
 - <a href="https://github.com/IsraaSaede" target="_blank">IsraaSaede</a>
 
 - <a href="https://github.com/" target="_blank">MarahAbuGhanem</a>
