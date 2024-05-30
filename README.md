@@ -54,7 +54,7 @@ Identifies potentially dangerous vehicles.
 
 ### Demo Videos
 
-You can find demo videos demonstrating HARIS in action [here](https://docs.google.com/presentation/d/1DLwlBV9pQ96vgXFebGquokG8klWJzfC6_xsjP34kWns/edit?usp=sharing).
+You can find demo videos demonstrating HARIS in action [here](https://www.canva.com/design/DAGGtOHbFjE/4Kf2_ORL5W9Qm4B1J1thCQ/edit?utm_content=DAGGtOHbFjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ### Documentation
 
