@@ -1,6 +1,6 @@
 # HARIS: High Alert Recognition Intelligent System
 
-![HARIS Logo](https://github.com/IsraaSaede/Driving-Behavior-and-Attitude-Graduation-Project/HARIS LOGO.jpg)
+![HARIS Logo](https://github.com/IsraaSaede/Driving-Behavior-and-Attitude-Graduation-Project/HARIS_LOGO.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
