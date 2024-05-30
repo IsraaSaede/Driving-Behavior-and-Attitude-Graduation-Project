@@ -1,6 +1,6 @@
 # HARIS: High Alert Recognition Intelligent System
 
-![Project Logo](https://drive.google.com/file/d/1uVUGhaqAUOuwM7QrfFIMmVpoABKd2dW5/view?usp=sharing)
+![Project Logo](HARIS LOGO.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
