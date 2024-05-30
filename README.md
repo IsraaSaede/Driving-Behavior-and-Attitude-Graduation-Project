@@ -15,18 +15,19 @@
 HARIS (High Alert Recognition Intelligent System) is an AI-powered System designed to enhance road safety by detecting and analyzing driver and driving behaviors using in-car and road cameras. The primary goal is to create a safer driving environment by minimizing accidents caused by reckless driving and driver distractions.
 
 ## Key Features
-# Driver Distraction Detection:
+### Driver Distraction Detection:
 -Utilizes the YOLOv5 object detection model.
 Detects and classifies multiple distraction classes with a precision of 95%.
 -Seatbelt model
-*Provides timely notifications and alerts to the driver.
+Detects the presence of seatbelts using YOLOv5 and classifies their usage with an additional neural network model.
+This ensures accurate differentiation between fastened and unfastened seatbelts.
 
-# Driving Behavior Detection:
+### Driving Behavior Detection:
 Employs YOLOv8 and ByteTrack algorithms.
 Detects various car behaviors and road lanes.
 Achieves a Mean Average Precision (MAP) of 78% on training and 70% on validation at a 0.5 threshold.
 
-# License Plate Recognition:
+### License Plate Recognition:
 Uses YOLOv5 and a CRNN-based OCR model.
 Recognizes car license plates with a line accuracy of 91%.
 Identifies potentially dangerous vehicles.
