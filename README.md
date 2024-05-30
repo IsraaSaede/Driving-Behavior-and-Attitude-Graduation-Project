@@ -51,8 +51,16 @@ Identifies potentially dangerous vehicles.
 - **Data Processing:** Pandas, NumPy
 - **APIs:** OpenCV for image processing, various sensor APIs
 
-## Demo:
-you can find Demo Viedos in this link:
+
+### Demo Videos
+
+You can find demo videos demonstrating HARIS in action [here](https://docs.google.com/presentation/d/1DLwlBV9pQ96vgXFebGquokG8klWJzfC6_xsjP34kWns/edit?usp=sharing).
+
+### Documentation
+
+You can find the detailed documentation [here](https://drive.google.com/file/d/1Pywy5OnwpzJYuCayuzkzm201_yxQiJdH/view?usp=sharing).
+
+For more details, please refer to the documentation and code in the repository.
 
 
 ## Contributing 👨‍🎓 👩‍🎓
