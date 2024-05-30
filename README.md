@@ -1,7 +1,8 @@
 # HARIS: High Alert Recognition Intelligent System
 
+# HARIS Flowchart 
 <p align="center">
-  <img width="650" src="HARIS_LOGO.jpg">
+  <img width="500" src="HARIS_Flowchart.png">
 </p>
 
 ## Table of Contents
