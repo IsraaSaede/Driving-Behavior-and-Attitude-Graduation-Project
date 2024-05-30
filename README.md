@@ -58,11 +58,11 @@ you can find Demo Viedos in this link:
 ## 👨‍🎓 👩‍🎓 Contributing
 - <a href="https://github.com/IsraaSaede" target="_blank">IsraaSaede</a>
 
-- <a href="https://github.com/" target="_blank">MarahAbuGhanem</a>
+- <a href="https://github.com/marah-ghanem" target="_blank">MarahAbuGhanem</a>
 
-- <a href="https://github.com/" target="_blank">Mohamed Samir</a>
+- <a href="https://github.com/Mo-Sam-Mo" target="_blank">Mohamed Samir</a>
 
-- <a href="https://github.com/" target="_blank">Fatima Adel</a>
+- <a href="https://github.com/FatimahAdel" target="_blank">Fatima Adel</a>
 
 - <a href="https://github.com/" target="_blank">Harisoa Anja</a>
 
