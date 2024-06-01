@@ -74,7 +74,7 @@ You can find the detailed documentation [here](https://drive.google.com/file/d/1
 
 - <a href="https://github.com/" target="_blank">Omar Mahmoud</a>
 
-- <a href="https://github.com/" target="_blank">Samira Essam</a>
+- <a href="https://github.com/samirahe21" target="_blank">Samira Essam</a>
 
 ## Acknowledgements
 Special thanks to [Person/Organization] for [reason].
